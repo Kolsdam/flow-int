@@ -6,7 +6,7 @@ The Flow Token smart contract is a decentralized token contract written in Caden
 
 ## Features
 
-1. **Token Minting**: The contract allows for the minting of NewToknen and Flow Tokens.
+1. **Token Minting**: The contract allows for the minting of NewToken and Flow Tokens.
 2. **Token Transfer**: Users can transfer Flow Tokens between accounts.
 3. **Token Balance Inquiry**: Users can query the balance of Flow Tokens for a specific account.
 4. **Token Approval**: The contract supports the approval of token transfers by allowing users to approve specific accounts to spend tokens on their behalf.
